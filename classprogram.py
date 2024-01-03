@@ -8,7 +8,7 @@ def studentslist():
     # for i in range(5):  # Loop 5 times for 5 subjects
     #     mark = float(input(f"Enter marks for subject {i + 1}: "))  # Get input for each mark
     #     marks.append(mark)  # Add the mark to the list
-
+  #     marks.append(mark)  # Add the mark to the list
 
 
 students=[studentslist() for _ in range(2)]
